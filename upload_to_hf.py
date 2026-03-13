@@ -121,6 +121,7 @@ LSTM layers require the Flex delegate for TFLite inference.
 On Android: add `tensorflow-lite-select-tf-ops` dependency.
 
 ## Links
+
 - GitHub: https://github.com/RAj5517/ppg_heart_rate_estimator
 """
 
